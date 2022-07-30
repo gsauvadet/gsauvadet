@@ -1,4 +1,13 @@
-### Hi there 👋
+# About me
+I'm Guillaume and currently in my last year of engineering school.
+
+
+# My tech
+
+
+# My stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsauvadet&theme=dark-smoky)](https://git.io/streak-stats)
 
 <!--
 **gsauvadet/gsauvadet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsauvadet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
